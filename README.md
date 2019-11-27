@@ -7,8 +7,8 @@ This is the Gama Engine Dev, which is a SDL based engine to create 2d plataform 
 
 ### The Team
 
-Gabriel Martins - Programer
-Miguel Anjo - Designer
-Artur Henrique - Designer
+Gabriel Martins - Programer  
+Miguel Anjo - Designer  
+Artur Henrique - Designer  
 
 ![Image](https://i.imgur.com/8GVXJ0c.png)
