@@ -3,12 +3,11 @@
 This is the Gama Engine Dev, which is a SDL based engine to create 2d plataform games  
 
 ## Demo
-
-https://www.youtube.com/watch?v=z-fAOYcHAxg
+[Video of the Demo](https://www.youtube.com/watch?v=z-fAOYcHAxg)
 
 ### The Team
 
-Gabriel Martins - Programer  
+Gabriel Martins - Programmer  
 Miguel Anjo - Designer  
 Artur Henrique - Designer  
 
