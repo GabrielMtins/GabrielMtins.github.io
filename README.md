@@ -4,7 +4,7 @@ This is the Gama Engine Dev, which is a SDL based engine to create 2d plataform 
 
 ## Demo
 
-{{% include youtubePlayer.html %}}
+https://www.youtube.com/watch?v=z-fAOYcHAxg
 
 ### The Team
 
