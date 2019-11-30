@@ -4,7 +4,8 @@ This is a page where I'll post about my current projects
 
 ### Current Projects
 Gama Engine - A SDL2 game engine to create 2d plataform games made in C++. [Video of the Demo](https://www.youtube.com/watch?v=z-fAOYcHAx)  
-[See the code](https://github.com/GabrielMtins/Gama-Engine)
+[See the code](https://github.com/GabrielMtins/Gama-Engine)  
+
 ![Image](https://i.imgur.com/8GVXJ0c.png)
 
 ### About me
