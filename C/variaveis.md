@@ -8,11 +8,11 @@ double - variável que armazena números decimais
 char - variável que armazena um caractere  
 Para criar variáveis é bem simples:
 Em nosso código digitamos:
-<pre> <code> TipoDeVariavel nomeDaVariavel </pre> <code>
+<pre> <code> TipoDeVariavel nomeDaVariavel </pre> </code>
 Exemplos:  
-<pre> <code> int x </pre> <code>
-<pre> <code> double mono </pre> <code>
-<pre> <code> char c1 </pre> <code>
+<pre> <code> int x </pre> </code>
+<pre> <code> double mono </pre> </code>
+<pre> <code> char c1 </pre> </code>
 Vale a pena lembrar que há algumas restrições para nomeações de variáveis:  
 1. Nomes de variáveis não podem conter letras, números e underline (_)
 2. Nomes de variáveis não podem começar com números
@@ -25,7 +25,7 @@ Podemos atribuir diversos valores a variáveis, e usamos isso atráves do operad
 int x;  
 x = 2;  
 int y = 3;  
-</pre> <code>
+</pre> </code>
 Como podemos ver, criamos uma variável x, e demos um valor a ela depois, dizendo que ela é igual a 2. 
 Também podemos declarar valores a variáveis logo quando elas são declaradas, como pode ser visto na 
 última linha do código
