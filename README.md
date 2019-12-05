@@ -8,7 +8,7 @@ Gama Engine - A SDL2 game engine to create 2d plataform games made in C++. [Vide
 
 ![Image](https://i.imgur.com/8GVXJ0c.png)  
 
-[A C language tutorial](https://gabrielmtins.github.io/ctutorial)  
+[Um tutorial da linguagem C (em português)](https://gabrielmtins.github.io/ctutorial)  
 
 ### About me
 I have been programming C and C++ since the end of 2017. My Goal was always to create a game, and I'll use this page to update about my projects
