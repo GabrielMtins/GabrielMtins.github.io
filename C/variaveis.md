@@ -11,9 +11,9 @@ Em nosso código digitamos:
 <pre> <code> TipoDeVariavel nomeDaVariavel </pre> </code>
 Exemplos:  
 <pre> <code> 
-int x 
-double mono 
-char c1 
+int x;
+double mono;
+char c1;
 </pre> </code>
 Vale a pena lembrar que há algumas restrições para nomeações de variáveis:  
 1. Nomes de variáveis não podem conter letras, números e underline (_)
