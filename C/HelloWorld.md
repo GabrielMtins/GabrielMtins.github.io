@@ -19,7 +19,8 @@ Como podemos ver, iniciamos algo chamado "main", que significa principal. É no 
 
 <pre> <code> printf("Hello World"); </code> </pre>
 Aqui iremos printar algo no console, que será o nosso output (que foi incluido com a biblioteca stdio.h), e nossa principal maneira de se comunicar com nossos usuários.  
-Digitamos printf e logo abrimos parênteses, para indicar o que nós queremos imprimir. Como vamos imprimir um texto, abra as aspas ("") e digite o texto que deseja dentro das aspas (Nesse caso, "hello world")  
+Digitamos printf e logo abrimos parênteses, para indicar o que nós queremos imprimir. Como vamos imprimir um texto, abra as aspas ("") e digite o texto que deseja dentro das aspas (Nesse caso, "hello world").  
+Além disso, percebemos que devemos deixar um ponto em vírgula no final de uma linha em C.  
 
 <pre> <code> }  </code> </pre>
 
