@@ -8,7 +8,7 @@ double - variável que armazena números decimais
 char - variável que armazena um caractere  
 Para criar variáveis é bem simples:
 Em nosso código digitamos:
-<pre> <code> TipoDeVariavel nomeDaVariavel </pre> </code>
+<code> TipoDeVariavel nomeDaVariavel </code>
 Exemplos:  
 <pre> <code> 
 int x;
