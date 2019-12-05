@@ -7,8 +7,8 @@ float - varíável que armazena números decimais
 double - variável que armazena números decimais  
 char - variável que armazena um caractere  
 Para criar variáveis é bem simples:
-Em nosso código digitamos:
-<code> TipoDeVariavel nomeDaVariavel </code>
+Em nosso código digitamos:  
+<code> TipoDeVariavel nomeDaVariavel </code>  
 Exemplos:  
 <pre> <code> 
 int x;
