@@ -14,7 +14,7 @@ Exemplos:
 int x;
 double mono;
 char c1;
-</pre> </code>
+</code> </pre> 
 Vale a pena lembrar que há algumas restrições para nomeações de variáveis:  
 1. Nomes de variáveis não podem conter letras, números e underline (_)
 2. Nomes de variáveis não podem começar com números
@@ -27,7 +27,7 @@ Podemos atribuir diversos valores a variáveis, e usamos isso atráves do operad
 int x;  
 x = 2;  
 int y = 3;  
-</pre> </code>
+</code> </pre> 
 Como podemos ver, criamos uma variável x, e demos um valor a ela depois, dizendo que ela é igual a 2. 
 Também podemos declarar valores a variáveis logo quando elas são declaradas, como pode ser visto na 
 última linha do código
