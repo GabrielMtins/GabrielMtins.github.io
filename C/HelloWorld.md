@@ -36,5 +36,5 @@ Esse comando irá compilar nosso programa. Para rodar ele basta digitar:
 <pre> <code> ./main  </code> </pre>
 (Em sistemas linux ou MacOS)
 <pre> <code> main.exe  </code> </pre>
-No Windows
+(No Windows)  
 Assim você receberá uma mensagem de "Olá Mundo" no console!!
