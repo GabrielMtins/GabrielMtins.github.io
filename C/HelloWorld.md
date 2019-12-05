@@ -2,7 +2,7 @@
 On this first tutorial, we will discuss a simple program that every new programmer makes.
 <pre>
 <code>
-#include &ltstdio.h&gt  
+#include &lt;stdio.h&gt;  
   
 int main(){  
     printf("Hello World");  
