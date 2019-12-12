@@ -14,5 +14,5 @@ Support for random noise
 Support for blur
 Support for save
 ```
-[Download for Windows](https://github.com/GabrielMtins/PhotoGama/releases/download/0.01/photogamawin.zip)
+[Download for Windows](https://github.com/GabrielMtins/PhotoGama/releases/download/0.01/photogamawin.zip)  
 [Download for Linux](https://github.com/GabrielMtins/PhotoGama/releases/download/0.01/PhotoGamaLinux.zip)
