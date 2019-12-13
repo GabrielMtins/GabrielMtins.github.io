@@ -13,7 +13,7 @@ Support for random noise
 Support for blur
 Support for save
 Support to layers
-Support to save
+Support to erase tool
 ```
 [Download for Windows](https://github.com/GabrielMtins/PhotoGama/releases/download/0.2/photogamawin.zip)    
 [Download for Linux](https://github.com/GabrielMtins/PhotoGama/releases/download/0.2/photogamalinux.zip)   
