@@ -1,10 +1,4 @@
-## Welcome to my projects page!
+## Principais Projetos  
 
-This is a page where I'll post about my current projects
+[GamaGraph - Um programa que gera gráficos de funções em 3d](https://gabrielmtins.github.io/project/gamagraph)  
 
-### Current Projects
-
-[GamaMath - a program that creates graphs](https://gabrielmtins.github.io/project/gamamath)   
-
-### About me
-I have been programming C and C++ since the end of 2017. My Goal was always to create a game, and I'll use this page to update about my projects
